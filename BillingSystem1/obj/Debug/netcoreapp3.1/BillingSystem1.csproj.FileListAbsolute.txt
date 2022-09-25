@@ -1,0 +1,27 @@
+D:\University 2020-2021\C#\Week 4\BillingSystem1\bin\Debug\netcoreapp3.1\BillingSystem1.exe
+D:\University 2020-2021\C#\Week 4\BillingSystem1\bin\Debug\netcoreapp3.1\BillingSystem1.deps.json
+D:\University 2020-2021\C#\Week 4\BillingSystem1\bin\Debug\netcoreapp3.1\BillingSystem1.runtimeconfig.json
+D:\University 2020-2021\C#\Week 4\BillingSystem1\bin\Debug\netcoreapp3.1\BillingSystem1.runtimeconfig.dev.json
+D:\University 2020-2021\C#\Week 4\BillingSystem1\bin\Debug\netcoreapp3.1\BillingSystem1.dll
+D:\University 2020-2021\C#\Week 4\BillingSystem1\bin\Debug\netcoreapp3.1\BillingSystem1.pdb
+D:\University 2020-2021\C#\Week 4\BillingSystem1\obj\Debug\netcoreapp3.1\BillingSystem1.csprojAssemblyReference.cache
+D:\University 2020-2021\C#\Week 4\BillingSystem1\obj\Debug\netcoreapp3.1\BillingSystem1.AssemblyInfoInputs.cache
+D:\University 2020-2021\C#\Week 4\BillingSystem1\obj\Debug\netcoreapp3.1\BillingSystem1.AssemblyInfo.cs
+D:\University 2020-2021\C#\Week 4\BillingSystem1\obj\Debug\netcoreapp3.1\BillingSystem1.csproj.CoreCompileInputs.cache
+D:\University 2020-2021\C#\Week 4\BillingSystem1\obj\Debug\netcoreapp3.1\BillingSystem1.dll
+D:\University 2020-2021\C#\Week 4\BillingSystem1\obj\Debug\netcoreapp3.1\BillingSystem1.pdb
+D:\University 2020-2021\C#\Week 4\BillingSystem1\obj\Debug\netcoreapp3.1\BillingSystem1.genruntimeconfig.cache
+F:\University 2020-2021\CET211-Intermediate Software Development\Week 4\BillingSystem1\bin\Debug\netcoreapp3.1\BillingSystem1.exe
+F:\University 2020-2021\CET211-Intermediate Software Development\Week 4\BillingSystem1\bin\Debug\netcoreapp3.1\BillingSystem1.deps.json
+F:\University 2020-2021\CET211-Intermediate Software Development\Week 4\BillingSystem1\bin\Debug\netcoreapp3.1\BillingSystem1.runtimeconfig.json
+F:\University 2020-2021\CET211-Intermediate Software Development\Week 4\BillingSystem1\bin\Debug\netcoreapp3.1\BillingSystem1.runtimeconfig.dev.json
+F:\University 2020-2021\CET211-Intermediate Software Development\Week 4\BillingSystem1\bin\Debug\netcoreapp3.1\BillingSystem1.dll
+F:\University 2020-2021\CET211-Intermediate Software Development\Week 4\BillingSystem1\bin\Debug\netcoreapp3.1\BillingSystem1.pdb
+F:\University 2020-2021\CET211-Intermediate Software Development\Week 4\BillingSystem1\obj\Debug\netcoreapp3.1\BillingSystem1.csproj.AssemblyReference.cache
+F:\University 2020-2021\CET211-Intermediate Software Development\Week 4\BillingSystem1\obj\Debug\netcoreapp3.1\BillingSystem1.GeneratedMSBuildEditorConfig.editorconfig
+F:\University 2020-2021\CET211-Intermediate Software Development\Week 4\BillingSystem1\obj\Debug\netcoreapp3.1\BillingSystem1.AssemblyInfoInputs.cache
+F:\University 2020-2021\CET211-Intermediate Software Development\Week 4\BillingSystem1\obj\Debug\netcoreapp3.1\BillingSystem1.AssemblyInfo.cs
+F:\University 2020-2021\CET211-Intermediate Software Development\Week 4\BillingSystem1\obj\Debug\netcoreapp3.1\BillingSystem1.csproj.CoreCompileInputs.cache
+F:\University 2020-2021\CET211-Intermediate Software Development\Week 4\BillingSystem1\obj\Debug\netcoreapp3.1\BillingSystem1.dll
+F:\University 2020-2021\CET211-Intermediate Software Development\Week 4\BillingSystem1\obj\Debug\netcoreapp3.1\BillingSystem1.pdb
+F:\University 2020-2021\CET211-Intermediate Software Development\Week 4\BillingSystem1\obj\Debug\netcoreapp3.1\BillingSystem1.genruntimeconfig.cache
